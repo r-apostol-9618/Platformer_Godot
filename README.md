@@ -1,7 +1,7 @@
 # Godot 4 - First 2D Game
 
 This is a small 2D game project I created by following this YouTube tutorial:  
-📺 [Make a Game in Godot 4 - Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
+[Make a Game in Godot 4 - Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
 
 ## 🎮 About
 
