@@ -17,7 +17,7 @@ The game is a platformer demo with a tilemap world and simple player controls. I
 After finishing the tutorial, I also ported the game to Android using Godot’s export system. The controls were adapted for touch, and the game runs on mobile devices.
 
 ## ▶️ Video
-![Gameplay](assets/gameplay.mp4)
+![Gameplay](godot_platform/assets/gameplay.mp4)
 
 
 ## 📚 Tutorial Credit
